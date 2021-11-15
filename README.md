@@ -40,3 +40,14 @@
                      git branch dev
                      git checkout dev
                      git commit -m "Ajout de la ligne unicormeMode dans __script__.py"
+             ----------------------------------------------------------------------
+             - merge dev vers main
+              - merge de la branche dev vers la branche main
+                     git checkout main
+                     git merge dev
+             ----------------------------------------------------------------------
+             - passage de maPremièreFusion à 1 dans __script__.py
+               - passage de maPremièreFusion à 1 dans __script__.py 
+                 - git commit -m "passage de maPremièreFusion à 1 dans __script__.py"
+
+                     
