@@ -54,5 +54,9 @@
                - merge de la branche dev sur la branche main
                      git checkout main
                      git merge dev
+            ----------------------------------------------------------------------
+             - mise à jour du readme
+               - mise à jour du readme
+                     git commit -m "Mise à jour du readme"
 
                      
