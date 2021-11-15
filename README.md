@@ -49,5 +49,10 @@
              - passage de maPremièreFusion à 1 dans __script__.py
                - passage de maPremièreFusion à 1 dans __script__.py 
                  - git commit -m "passage de maPremièreFusion à 1 dans __script__.py"
+             ----------------------------------------------------------------------
+             - merge de la branche dev sur la branche main
+               - merge de la branche dev sur la branche main
+                     git checkout main
+                     git merge dev
 
                      
