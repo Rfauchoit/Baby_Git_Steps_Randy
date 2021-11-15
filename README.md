@@ -27,10 +27,16 @@
             - modification du __script__.py
                 - Ajout des lignes demandés
                 - git commit -m "Modification du __script__.py"
-         ----------------------------------------------------------------------
+            ----------------------------------------------------------------------
           
-        - ajout de poneys .txt
-            - création d'une branche dev et la création d'un fichier poney.txt
+            - ajout de poneys .txt
+              - création d'une branche dev et la création d'un fichier poney.txt
                      git branch dev
                      git checkout dev
                      git commit -m "Ajouter de poneys.txt"
+            ----------------------------------------------------------------------
+            - ajout de la ligne unicorneMode dans __script__.py
+              - ajout de la ligne unicorneMode dans __script__.py
+                     git branch dev
+                     git checkout dev
+                     git commit -m "Ajout de la ligne unicormeMode dans __script__.py"
