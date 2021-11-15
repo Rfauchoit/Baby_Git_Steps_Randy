@@ -24,3 +24,13 @@
                 - les modifications réalisées,
                 - Les commandes utilisées sous forme de bloc de code !
         - Entre chaque exercice, insérez une séparation horizontale
+            - modification du __script__.py
+                - Ajout des lignes demandés
+                - git commit -m "Modification du __script__.py"
+         ----------------------------------------------------------------------
+          
+        - ajout de poneys .txt
+            - création d'une branche dev et la création d'un fichier poney.txt
+                     git branch dev
+                     git checkout dev
+                     git commit -m "Ajouter de poneys.txt"
