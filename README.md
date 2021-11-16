@@ -21,7 +21,7 @@
 
 ## Temoignage
 
-Oui je confirme que Randy revient bien de l'enfer des RH, c'était pas beau à voir, j'ai bien cru qu'on allait le perdre mais il a survecu ! Bravo !!!!
+Oui je confirme que Randy revient bien de l'enfer des RH, c'était pas beau à voir, j'ai bien cru qu'on allait le perdre mais il a survecu ! Bravo !!!! Bon ça ne marche toujours ps ...
 
 
 
