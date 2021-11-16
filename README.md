@@ -18,6 +18,13 @@
                 |Adecco|Assistant RH|2018-2019|
                 
             (https://www.linkedin.com/in/randy-fauchoit-412493161/)
+
+## Temoignage
+
+Oui je confirme que Randy revient bien de l'enfer des RH, c'était pas beau à voir, j'ai bien cru qu'on allait le perdre mais il a survecu ! Bravo !!!! Bon ça ne marche toujours ps ...
+
+
+
     - Sous-titre : Changelog
         - Créez un sous-sous titre par commit, portant le nom du commit.
             - Sous forme de texte, précisez
@@ -65,4 +72,5 @@
 
 
 
-                     
+
+
