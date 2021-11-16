@@ -70,6 +70,9 @@ si alleluiaaaaa .......
              - push sur github
                - push sur github
                      git commit -m "Post sur github"
+            ----------------------------------------------------------------------
+            - Commit rajout des captures
+              - rajout des captures
 
 
 
