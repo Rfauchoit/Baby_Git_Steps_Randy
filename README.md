@@ -58,5 +58,11 @@
              - mise à jour du readme
                - mise à jour du readme
                      git commit -m "Mise à jour du readme"
+            ----------------------------------------------------------------------
+             - push sur github
+               - push sur github
+                     git commit -m "Post sur github"
+
+
 
                      
