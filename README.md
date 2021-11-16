@@ -73,6 +73,9 @@ si alleluiaaaaa .......
             ----------------------------------------------------------------------
             - Commit rajout des captures
               - rajout des captures
+            ----------------------------------------------------------------------
+            - Commit ma capture de ton kitkraken
+              - rajout des captures
 
 
 
